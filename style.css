@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  background: #eee;
+  margin: 0;
+  align-items: center;
+  padding: 20px;
+}
+.resume {
+  max-width: 750px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+}
+.box {
+  border-bottom: 4px dashed  #007bff;
+  padding: 15px;
+  margin-bottom: 15px ;
+  border-radius: 5px;
+}
+img {
+  float: right;
+  width: 70px;
+  border-radius: 50%;
+}
+h1, h2 { margin: 5px 0; }
+ul { margin: 0; padding-left: 20px; }
+a { color: #007bff; text-decoration: none; }
